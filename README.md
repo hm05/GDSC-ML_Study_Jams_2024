@@ -675,27 +675,23 @@ Vector:
 
 # Reference Link
 
-[https://github.com/hm05/GDSC-ML_Study_Jams_2024](https://github.com/hm05/GDSC-ML_Study_Jams_2024)
+1) [Tokenization example using nltk](./01-tokenization-example-using-nltk.ipynb)
+   
+2) [Stemming and it's types](./02-stemming-and-it-s-types.ipynb)
 
-### OR
+3) [Lemmatization text preprocessing](./03-lemmatization-text-preprocessing.ipynb)
 
-1) [https://www.kaggle.com/code/harshitajakiya/01-tokenization-example-using-nltk](https://www.kaggle.com/code/harshitajakiya/01-tokenization-example-using-nltk)
+4) [Stopword text preprocessing](./04-stopwords-text-preprocessing.ipynb)
 
-2) [https://www.kaggle.com/code/harshitajakiya/02-stemming-and-it-s-types](https://www.kaggle.com/code/harshitajakiya/02-stemming-and-it-s-types)
+5) [Bag of words practical](./05-bag-of-words-practical-ipynb.ipynb)
 
-3) [https://www.kaggle.com/code/harshitajakiya/03-lemmatization-text-preprocessing](https://www.kaggle.com/code/harshitajakiya/03-lemmatization-text-preprocessing)
+6) [TFIDF Practical](./06-tfidf-practical-ipynb.ipynb)
 
-4) [https://www.kaggle.com/code/harshitajakiya/04-stopwords-text-preprocessing](https://www.kaggle.com/code/harshitajakiya/04-stopwords-text-preprocessing)
+7) [Word2vec Practical Implementation](./07-word2vec-practical-implementation-ipynb.ipynb)
 
-5) [https://www.kaggle.com/code/harshitajakiya/05-bag-of-words-practical-ipynb](https://www.kaggle.com/code/harshitajakiya/05-bag-of-words-practical-ipynb)
+8) [Spam ham classification with TDIDF](./08-spam-ham-classification-with-tfidf-ml.ipynb)
 
-6) [https://www.kaggle.com/code/harshitajakiya/06-tfidf-practical-ipynb](https://www.kaggle.com/code/harshitajakiya/06-tfidf-practical-ipynb)
-
-7) [https://www.kaggle.com/code/harshitajakiya/07-word2vec-practical-implementation-ipynb](https://www.kaggle.com/code/harshitajakiya/07-word2vec-practical-implementation-ipynb)
-
-8) [https://www.kaggle.com/code/harshitajakiya/08-spam-ham-classification-with-tfidf-ml](https://www.kaggle.com/code/harshitajakiya/08-spam-ham-classification-with-tfidf-ml)
-
-9) []()
+9) [Mini Project](./MiniProject/README.md)
 
 ## Special Thanks to [Contributors](./Contributors.md) of this Repository.
 
