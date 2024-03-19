@@ -372,8 +372,8 @@ Word Counts: {'this': 1, 'book': 1, 'is': 1, 'good': 1, 'science': 1, 'fiction':
 
 ### TFIDF → Term Frequency and Inverse Document Frequency
 
-- This is similar to BoW algorithm but the difference is that this algorithm
-
+- This is similar to BoW algorithm but the difference is that this algorithm converts the occurence into fractions to avoid null elements.
+  
 ### Example
 
 **Sentence 1** → Cat eats food
